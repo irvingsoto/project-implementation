@@ -11,7 +11,7 @@
 
 - Clone this repository to your local
 - Run ```npm install``` prior to executing any test
-- To execute tests run npm test (all tests in /tests directory will run)
+- To execute tests run npx playwright test (all tests in /tests directory will run)
 
 # Resources
 
