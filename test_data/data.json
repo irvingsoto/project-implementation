@@ -1,3 +1,5 @@
 {
-  "_comment_01": "test data storage"
+  "_comment_01": "test data storage",
+  "base_url": "https://demo.playwright.dev/todomvc/#/",
+  "item_name": "Create project"
 }
