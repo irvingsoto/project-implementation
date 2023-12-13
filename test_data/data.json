@@ -1,6 +1,6 @@
 {
   "_comment_01": "test data storage",
-  "base_url": "https://www.saucedemo.com",
-  "user_name": "standard_user",
-  "user_password": "secret_sauce"
+  "base_url": "http://automationexercise.com",
+  "email_address": "irving@wizeline.com",
+  "password": "test01"
 }

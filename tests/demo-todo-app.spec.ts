@@ -4,7 +4,6 @@ import testData from "../test_data/data.json";
 
 let page: Page;
 let url= testData.base_url;
-let userNAme= testData.user_name;
 
 test.describe("TODO APP Tests", async () => {
   test.beforeEach(async ({}) => {
