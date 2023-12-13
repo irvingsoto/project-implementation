@@ -1,5 +1,6 @@
 {
   "_comment_01": "test data storage",
-  "base_url": "https://demo.playwright.dev/todomvc/#/",
-  "item_name": "Create project"
+  "base_url": "http://automationexercise.com",
+  "email_address": "irving@wizeline.com",
+  "password": "test01"
 }
